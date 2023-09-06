@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_umi.mk
+    $(LOCAL_DIR)/twrp_apollo.mk
 
-COMMON_LUNCH_CHOICES := \
-    omni_umi-user \
-    omni_umi-userdebug \
-    omni_umi-eng
+PRODUCT_USE_DYNAMIC_PARTITIONS := true
+COMMON_LUNCH_CHOICES := twrp_apollo-eng
