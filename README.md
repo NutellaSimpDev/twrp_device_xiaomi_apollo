@@ -1,4 +1,4 @@
-# Android device tree for Xiaomi Redmi K30S Ultra (umi)
+# Android device tree for Xiaomi Redmi K30S Ultra (apollo)
 
 ```
 #
