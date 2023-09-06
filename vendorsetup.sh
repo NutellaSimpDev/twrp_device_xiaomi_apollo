@@ -5,6 +5,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-add_lunch_combo omni_umi-user
-add_lunch_combo omni_umi-userdebug
-add_lunch_combo omni_umi-eng
+add_lunch_combo twrp_apollo-user
+add_lunch_combo twrp_apollo-userdebug
+add_lunch_combo twrp_apollo-eng
